@@ -6,4 +6,4 @@ Download and unzip files. <br/>
 Go <b>config.php</b> and edit your username to <b>$username</b><br/>
 Edit your password to <b>$password</b>.<br>
 Edit your Status Message to <b>$msg</b>.<br>
-komment or unkomment the function, what you wish. Login or send tweets. THAT IT'S ALL.
+In File index.php komment or unkomment the function, what you wish. Login or send tweets. THAT IT'S ALL.
